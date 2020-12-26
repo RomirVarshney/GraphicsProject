@@ -1,4 +1,3 @@
-README
 # GraphicsProject
 
 This is the file for my graphics project, which was a project that I had to complete in school, as an introduction to graphical code in Java.
